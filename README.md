@@ -8,7 +8,7 @@
 
 + 任务列表打钩表示更新完成
 + 不保证笔记内容的绝对正确性，欢迎交 ISSUE
-+ `bubu`呜呜呜他真的
++ [@bubu](https://github.com/bubumua)呜呜呜他真的（内容见[bubu分支](https://github.com/Anduin9527/CS-Professional-Notes-of-NJUPT/tree/bubu)）
 
 ### 隔壁EE的专业课
 
